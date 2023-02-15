@@ -1,0 +1,100 @@
+html {
+  background-color: gainsboro;
+}
+
+*body {
+  background: gray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 0;
+  margin: 250px;
+}
+
+#trivia {
+  background: #ffdd33;
+  padding: 4rem;
+  text-align: center;
+  justify-content: center;
+}
+
+h1 {
+  color: black;
+  font-size: 3rem;
+  text-align: center;
+  padding: 2px 0;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+h2 {
+  font-size: 2.7rem;
+  color: black;
+  text-align: center;
+}
+
+#parrafo {
+  font-size: xx-large;
+  color: white;
+  text-align: center;
+  font-weight: bolder;
+}
+
+#name {
+  color: black;
+  width: 250px;
+  border-radius: 8px;
+  padding: 10px 20px;
+  border: aliceblue;
+}
+
+#button,#reload {
+  background-color: #d52091ad;
+  width: 200px;
+  height: 50px;
+  margin: 20px;
+  border-radius: 10px;
+  color: white;
+  font-weight: bolder;
+  font-size: medium;
+  outline: none;
+}
+
+.seleccion {
+  background-color: rgba(0, 145, 255, 0.63) !important;
+  transition: 2s;
+}
+
+.buttonOption {
+  background-color: #ff8000;
+  width: 200px;
+  height: 50px;
+  margin: 20px;
+  border-radius: 10px;
+  color: white;
+  font-weight: bolder;
+  font-size: medium;
+  outline: none;
+}
+
+#progreso {
+  font-size: 20px;
+  text-align: center;
+}
+
+.center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1,
+h2 {
+  color: white;
+  font-family: cursive;
+}
+
+.buttonContinue {
+  display: flex;
+  justify-content: center;
+}
