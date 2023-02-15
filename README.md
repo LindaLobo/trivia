@@ -1,1 +1,1 @@
-# trivia
+# trivia laboratoria
