@@ -1,10 +1,11 @@
 # TRIVIA LABORATORIA
 
-_Es una página que contiene un pequeño juego de trivia donde el usuario debera contestar varias preguntas para saber su nivel de aprendisaje.
+_Es una página que contiene un pequeño juego de trivia donde el usuario debera contestar varias preguntas para saber su nivel de aprendizaje.
 
 ## Comenzando 🚀
 
 _Realizar distintas lecturas y apoyandonos en el GitBook
+_Investigar en otras herramientas como youtube, chrome.
 
 ### Pre-requisitos 📋
 
@@ -19,7 +20,7 @@ _Realizar distintas lecturas y apoyandonos en el GitBook
 
 ## Autores ✒️❤️
 
-* **Daniela Giraldo** -
+* **Daniela Giraldo Jiménez** -
 * **Linda Aguilar** -
 
 ## Expresiones de Gratitud 🎁
