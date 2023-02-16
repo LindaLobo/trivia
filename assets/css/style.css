@@ -10,13 +10,25 @@ html {
   height: 100vh;
   padding: 0;
   margin: 250px;
+  position: relative;
+}
+#header-img{
+  max-height: 80px;
+}
+.shadow {
+  border: 1px solid white;
+  width: 50%;
+  box-shadow: 10px 10px white;
+  border-radius: 10px;
+  min-height: 60vh;
 }
 
 #trivia {
-  background: #ffdd33;
-  padding: 4rem;
-  text-align: center;
+  background: rgb(255, 229, 33);
+  display: flex;
   justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
 h1 {
@@ -48,7 +60,8 @@ h2 {
   border: aliceblue;
 }
 
-#button,#reload {
+#button,
+#reload {
   background-color: #d52091ad;
   width: 200px;
   height: 50px;
@@ -62,7 +75,7 @@ h2 {
 
 .seleccion {
   background-color: rgba(0, 145, 255, 0.63) !important;
-  transition: 2s;
+  transition:  0.2s ease-in-out;
 }
 
 .buttonOption {
@@ -95,6 +108,13 @@ h2 {
 }
 
 .buttonContinue {
+  margin-top: 30px;
   display: flex;
   justify-content: center;
+}
+#time{
+  display: flex;
+  justify-content: center;
+  font-size: 40px;
+  color: white;
 }
